@@ -8,3 +8,4 @@ reddit.com##.unvoted.entry:has-text(/[^\w]+r[ae]*l[ae]*v[ae]*nt[^\w]*user[ ]*nam
 reddit.com##.unvoted.entry:has-text(/[^\w]+And[ ]*my[ ]*Axe(s)*[^\w]/i)
 reddit.com##.unvoted.entry:has-text(/[^\w]+mem(e|ing)(s)*[^\w]/i)
 reddit.com##.unvoted.entry:has-text(/[^\w]+sex(y)*[ ]*time(s)*[^\w]/i)
+reddit.com##.unvoted.entry:has-text(/[^\w]+remind[ ]*me[!]*[^\w]/i)
