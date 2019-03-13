@@ -14,3 +14,4 @@ reddit.com##.unvoted.entry:has-text(/[^\w]Sex[ ]*with[ ]*this[ ]*[^ ]+[ ]*(wife|
 reddit.com##.unvoted.entry:has-text(/[^\w]I[ ]*understood[ ]*that[ ]*reference[^\w]/i)
 reddit.com##.unvoted.entry:has-text(/[^\w]senpai[^\w]/i)
 reddit.com##.unvoted.entry:has-text(/[^\w]Jaime[ ]*pull[ ]*it[ ]*up[^\w]/i)
+reddit.com##.unvoted.entry:has-text(/u\/[^ ]+/)
