@@ -15,3 +15,4 @@ reddit.com##.unvoted.entry:has-text(/[^\w]I[ ]*understood[ ]*that[ ]*reference[^
 reddit.com##.unvoted.entry:has-text(/[^\w]senpai[^\w]/i)
 reddit.com##.unvoted.entry:has-text(/[^\w]Jaime[ ]*pull[ ]*it[ ]*up[^\w]/i)
 reddit.com##.unvoted.entry:has-text(/u\/[^ ]+/)
+reddit.com##.unvoted.entry:has-text(/[^\w]up(d|t)oot[s]*[^\w]/i)
