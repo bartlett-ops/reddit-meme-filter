@@ -20,3 +20,4 @@ reddit.com##.unvoted.entry:has-text(/[^\w]pioneer[s]* used to ride [\w]+ bab(ies
 reddit.com##.unvoted.entry:has-text(/[^\w]thanos/i)
 reddit.com##.unvoted.entry:has-text(/[^\w]I.m a simple (wo)?man/i)
 reddit.com##.unvoted.entry:has-text(/[^\w]depress(ion|ed)[^\w]/i)
+reddit.com##.unvoted.entry:has-text(/[^\w](user)?name[ ](check(.)?(s)*[ ]*out[^\w]/i)
